@@ -40,5 +40,5 @@ $ heroku ps:scale web=1
 
 Open the app in browser from your heroku id or just type
 ```bash
-$ heroku create
+$ heroku open
 ```
